@@ -1,0 +1,25 @@
+.kepek{
+    border: 1px solid blue;
+    box-shadow: 4px 4px;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    height: 600px;
+    text-align: center;
+}
+.felsoNev{
+    color: gray;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 20px;
+}
+button{
+    margin-top: 30px;
+}
+#tartalom{
+    text-align: center;
+}
+.kiskep{
+    width: 300px;
+    height: 400px;
+}
